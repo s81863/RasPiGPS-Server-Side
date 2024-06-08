@@ -1,6 +1,7 @@
 # Overview
 This project contains a Python script that can be used in combination with the [RasPiGPS](https://github.com/s81863/RasPiGPS) project. 
-To use the RTK function, please adjust the parameters in <>. If you are located in Germany, you can obtain access to the [SAPOS](https://sapos.de/) satellite 
+To use the RTK function, please adjust the parameters in <> and make sure [RTKLIB](https://github.com/rtklibexplorer/RTKLIB) is installed on your RPi.
+If you are located in Germany, you can obtain access to the [SAPOS](https://sapos.de/) satellite 
 positioning service free of charge. This also offers correction services for your data. Another option is [RTK2GO](http://rtk2go.com/)
 
 ## Setup
